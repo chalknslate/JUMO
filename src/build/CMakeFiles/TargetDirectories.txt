@@ -1,0 +1,3 @@
+/Users/codinggenius/JUMO/JUMO/src/build/CMakeFiles/engine.dir
+/Users/codinggenius/JUMO/JUMO/src/build/CMakeFiles/edit_cache.dir
+/Users/codinggenius/JUMO/JUMO/src/build/CMakeFiles/rebuild_cache.dir
